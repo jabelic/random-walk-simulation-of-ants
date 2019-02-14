@@ -1,4 +1,4 @@
-//2610180082 水野 響 期末レポート
+
 #include <stdio.h>
 #include <glsc.h>
 #include <stdlib.h>
